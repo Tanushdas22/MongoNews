@@ -8,7 +8,7 @@ Two-phase Python system for ingesting large JSON datasets of newspaper articles 
 
 ## System Overview
 
-**NewsDB Explorer** is a two-phase system designed to manage and query large datasets of newspaper articles.  
+**MongoNews** is a two-phase system designed to manage and query large datasets of newspaper articles.  
 
 - **Phase 1:** Loads a JSON file of articles into a MongoDB collection efficiently, with validation and batch insertion.  
 - **Phase 2:** Provides an interactive menu to explore the database with queries such as most common words, article counts by date, top sources, and recent articles per source.  
