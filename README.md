@@ -145,4 +145,3 @@ Select an option:
 * MongoDB Aggregation Framework: [https://www.mongodb.com/docs/manual/aggregation/](https://www.mongodb.com/docs/manual/aggregation/)
 * PyMongo Documentation: [https://pymongo.readthedocs.io/en/stable/](https://pymongo.readthedocs.io/en/stable/)
 
-```
